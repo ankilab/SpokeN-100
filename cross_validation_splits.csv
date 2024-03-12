@@ -1,0 +1,33 @@
+split_id,train,test
+1,"['George' 'Dave' 'James' 'Josh' 'Rachel' 'Liam' 'Freya' 'Arnold' 'Nicole'
+ 'Charlie' 'Ethan' 'Dorothy' 'Serena' 'Lily' 'Mimi' 'Matilda' 'Giovanni'
+ 'Elli' 'Glinda' 'Michael' 'Harry' 'Patrick' 'Jeremy' 'Bella' 'Callum'
+ 'Domi' 'Bill' 'Grace']",['Jessie' 'Emily' 'Gigi' 'Charlotte']
+2,"['George' 'Dave' 'James' 'Josh' 'Rachel' 'Liam' 'Freya' 'Arnold' 'Ethan'
+ 'Dorothy' 'Serena' 'Lily' 'Mimi' 'Jessie' 'Matilda' 'Emily' 'Giovanni'
+ 'Elli' 'Glinda' 'Michael' 'Harry' 'Patrick' 'Gigi' 'Bella' 'Callum'
+ 'Domi' 'Charlotte' 'Grace']",['Nicole' 'Charlie' 'Jeremy' 'Bill']
+3,"['Dave' 'James' 'Josh' 'Liam' 'Freya' 'Arnold' 'Nicole' 'Charlie' 'Ethan'
+ 'Dorothy' 'Lily' 'Mimi' 'Jessie' 'Emily' 'Giovanni' 'Elli' 'Glinda'
+ 'Michael' 'Harry' 'Patrick' 'Gigi' 'Jeremy' 'Bella' 'Callum' 'Domi'
+ 'Charlotte' 'Bill' 'Grace']",['George' 'Rachel' 'Serena' 'Matilda']
+4,"['George' 'Dave' 'James' 'Josh' 'Rachel' 'Freya' 'Arnold' 'Nicole'
+ 'Charlie' 'Ethan' 'Serena' 'Mimi' 'Jessie' 'Matilda' 'Emily' 'Giovanni'
+ 'Elli' 'Glinda' 'Michael' 'Harry' 'Gigi' 'Jeremy' 'Bella' 'Callum' 'Domi'
+ 'Charlotte' 'Bill' 'Grace']",['Liam' 'Dorothy' 'Lily' 'Patrick']
+5,"['George' 'Rachel' 'Liam' 'Freya' 'Arnold' 'Nicole' 'Charlie' 'Ethan'
+ 'Dorothy' 'Serena' 'Lily' 'Mimi' 'Jessie' 'Matilda' 'Emily' 'Giovanni'
+ 'Elli' 'Glinda' 'Michael' 'Harry' 'Patrick' 'Gigi' 'Jeremy' 'Callum'
+ 'Domi' 'Charlotte' 'Bill' 'Grace']",['Dave' 'James' 'Josh' 'Bella']
+6,"['George' 'Dave' 'James' 'Josh' 'Rachel' 'Liam' 'Freya' 'Arnold' 'Nicole'
+ 'Charlie' 'Ethan' 'Dorothy' 'Serena' 'Lily' 'Mimi' 'Jessie' 'Matilda'
+ 'Emily' 'Elli' 'Glinda' 'Patrick' 'Gigi' 'Jeremy' 'Bella' 'Domi'
+ 'Charlotte' 'Bill' 'Grace']",['Giovanni' 'Michael' 'Harry' 'Callum']
+7,"['George' 'Dave' 'James' 'Josh' 'Rachel' 'Liam' 'Freya' 'Nicole' 'Charlie'
+ 'Dorothy' 'Serena' 'Lily' 'Mimi' 'Jessie' 'Matilda' 'Emily' 'Giovanni'
+ 'Elli' 'Michael' 'Harry' 'Patrick' 'Gigi' 'Jeremy' 'Bella' 'Callum'
+ 'Domi' 'Charlotte' 'Bill']",['Arnold' 'Ethan' 'Glinda' 'Grace']
+8,"['George' 'Dave' 'James' 'Josh' 'Rachel' 'Liam' 'Arnold' 'Nicole'
+ 'Charlie' 'Ethan' 'Dorothy' 'Serena' 'Lily' 'Jessie' 'Matilda' 'Emily'
+ 'Giovanni' 'Glinda' 'Michael' 'Harry' 'Patrick' 'Gigi' 'Jeremy' 'Bella'
+ 'Callum' 'Charlotte' 'Bill' 'Grace']",['Freya' 'Mimi' 'Elli' 'Domi']
